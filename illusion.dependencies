@@ -1,0 +1,8 @@
+[
+    {
+      "remote": "ill",
+      "repository": "android_kernel_asus_grouper",
+      "target_path": "kernel/asus/grouper",
+      "revision": "illusion-4.4"
+    }
+]
